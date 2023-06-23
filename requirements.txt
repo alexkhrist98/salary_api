@@ -1,0 +1,7 @@
+asyncpg
+fastapi==0.97.0
+psycopg2==2.9.6
+pydantic==1.10.8
+PyJWT==2.7.0
+python.env
+uvicorn==0.22.0
